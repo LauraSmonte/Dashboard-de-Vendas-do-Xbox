@@ -42,7 +42,7 @@ Para visualizar e interagir com o dashboard:
 o	Certifique-se de que o Microsoft Excel esteja instalado (recomendado a partir da versão 2016).
 
 2.	Abra o Arquivo:
-o	Clique aqui para baixar o dashboard.
+o	Clique aqui para baixar o dashboard: https://github.com/LauraSmonte/Dashboard-de-Vendas-do-Xbox/blob/main/DASHBOARD%20DE%20VENDAS%20XBOX%20PASS.xlsx 
 
 3.	Interaja com os Filtros:
 o	Use o filtro suspenso "Tipo de Assinatura" para explorar os dados por categoria específica de assinatura.
@@ -50,6 +50,7 @@ ________________________________________
 
 ❓ Instruções para Reproduzir o Projeto
 Se desejar criar um dashboard semelhante, siga estes passos:
+
 1.	Preparação dos Dados:
 o	Colete dados relacionados às vendas de assinaturas, categorizadas por tipo e período.
 o	Garanta que os dados estejam limpos e consistentes.
@@ -67,6 +68,7 @@ o	Certifique-se de que os filtros e visualizações estejam atualizando de forma
 o	Valide a precisão dos dados e o desempenho do dashboard.
 ________________________________________
 🧮 Ferramentas Utilizadas
+
 •	Microsoft Excel: Utilizado para criar o dashboard interativo e analisar os dados.
 ________________________________________
 🔍 Pré-visualização do Dashboard
@@ -81,6 +83,7 @@ O dashboard inclui as seguintes seções:
 
 4.	Principais Insights e Destaques
 ________________________________________
+
 📜 Licença
 Este projeto é destinado para uso pessoal e educacional. Para outras permissões de uso, entre em contato com o autor do repositório.
 ________________________________________
@@ -88,6 +91,7 @@ ________________________________________
 Para mais informações ou dúvidas, sinta-se à vontade para entrar em contato:
 
 👨‍💻 Autora: Laura Monte
+
 https://github.com/LauraSmonte 
 
 https://www.linkedin.com/in/laura-monte-b157a8292/ 
